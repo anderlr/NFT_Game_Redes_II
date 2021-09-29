@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "ColorHelper": "1.6.0"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "ColorHelper/1.6.0": {
+        "runtime": {
+          "lib/netstandard2.0/ColorHelper.dll": {
+            "assemblyVersion": "1.4.0.0",
+            "fileVersion": "1.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ColorHelper/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t6sCpJJ3BkNt1kgpTw841K8qAGUx2W5r7otWYO8qvT0sq7MU/d4Lm5UfYd3f2wRQs3FX8Xy7d2jtR8CEGfLbcQ==",
+      "path": "colorhelper/1.6.0",
+      "hashPath": "colorhelper.1.6.0.nupkg.sha512"
+    }
+  }
+}

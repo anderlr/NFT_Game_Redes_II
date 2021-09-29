@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSosopi5LKcuSXHNhuooDDiL4JiL6SMnVKp+2giVYYGlYT249pG4/WZDwBQT7/BJPImJwYAwVL1fyM8o2ZzO6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANDSU\\OneDrive\\Documentos\\GitHub\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDSU\\.nuget\\packages\\colorhelper\\1.6.0\\colorhelper.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
